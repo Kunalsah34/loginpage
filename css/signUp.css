@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.nav-container {
+    height: 50px;
+    background: red;
+    display: flex;
+    justify-content:end;
+    align-items:center;
+}
+
+.nav-button{
+    border:1px solid black;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+h2{
+    background-color: lightgray;
+    color: blue;
+    display: flex;
+    justify-content: center;
+    padding:2px;
+}
+
+
+
+
+
+
+
